@@ -1,6 +1,6 @@
 ### Hi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vulpes94)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vulpes94)](https://github.com/Project-Kible/pos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vulpes94&repo=Project-Kible/pos)](https://github.com/Project-Kible/pos)
 
 
 <!--
